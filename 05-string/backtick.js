@@ -40,3 +40,4 @@ console.log("phrase.slice(3) =>", phrase.slice(3));
 console.log("phrase after slice=>", phrase);
 
 console.log("slice from 6 to 12=>", phrase.slice(6,12));
+console.log(phrase.slice(-4));
